@@ -1,7 +1,7 @@
 # Team Kickoff Meeting: TMF AI Blueprint Virtual Team
 
 ## Meeting Information
-- **Date**: 2025-10-19
+- **Date**: 2025-08-19
 - **Time**: 10:00 AM - 12:00 PM EST
 - **Meeting Platform**: Zoom
 - **Meeting Link**: [Zoom Meeting URL]
@@ -208,7 +208,7 @@
 - **Overall Rating**: 5/5 stars - excellent kickoff meeting
 
 ## Next Meeting
-- **Date**: 2025-10-22
+- **Date**: 2025-08-22
 - **Time**: 2:00 PM - 4:00 PM EST
 - **Type**: Sprint Planning Meeting
 - **Agenda Items**:
@@ -220,8 +220,8 @@
 ---
 
 **Document Control**
-- **Minutes Prepared By**: [Meeting Coordinator Name] - 2025-10-19
-- **Reviewed By**: [Product Manager Name] - 2025-10-19
+- **Minutes Prepared By**: [Meeting Coordinator Name] - 2025-08-19
+- **Reviewed By**: [Product Manager Name] - 2025-08-19
 - **Distribution**: All team members, stakeholders
 - **Version**: 1.0
 
