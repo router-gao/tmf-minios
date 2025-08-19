@@ -1,2 +1,2 @@
-# ai4tmf
+# AMF Minions
 TMF Minions
